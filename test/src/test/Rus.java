@@ -8,5 +8,6 @@ public class Rus {
 		String s2 = s.replace('a', 'A');
 		
 		System.out.println(s2);
+		System.out.println("For First branch");
 	}
 }
